@@ -1,8 +1,4 @@
 # Hi there, I'm Vajid!👋
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vajidpkd&show_icons=true&theme=radical" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vajidpkd&layout=compact" /><br>
 <br><br><br><br><br><br><br><br>
 ## 💼 Skills
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
