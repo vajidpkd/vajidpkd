@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Abdul Vajid</h1>
+<h1 align="center">👨‍💻 Abdul Vajid P</h1>
 <h3 align="center">🔐 Aspiring Red Team Engineer | Cybersecurity Learner</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <li>🔐 Passionate about Cybersecurity & Ethical Hacking</li>
   <li>📚 Currently learning offensive security fundamentals</li>
   <li>🧠 Focused on Networking, Linux, and Web Exploitation</li>
-  <li>🎯 Goal: Become a Skilled Penetration Tester</li>
+  <li>🎯 Goal: Become a Skilled Red Team Engineer specializing in penetration testing</li>
 </ul>
 
 <hr>
@@ -54,15 +54,15 @@
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=vajidpkd&show_icons=true&theme=dark">
 </p>
 
 <hr>
 
 <h2>📫 Contact</h2>
 <ul>
-  <li>💼 LinkedIn: your-link</li>
-  <li>📧 Email: your-email</li>
+ <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/vajidp/" target="_blank">linkedin.com/in/vajidp</a></li>
+<li>📧 Email: <a href="mailto:vajidpkd@gmail.com">vajidpkd@gmail.com</a></li>
 </ul>
 
 <hr>
