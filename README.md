@@ -52,11 +52,11 @@
 
 <hr>
 
-<h2>📊 GitHub Stats</h2>
+<!-- <h2>📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vajidpkd&show_icons=true&theme=dark" />
 </p>
-<hr>
+<hr> -->
 
 <h2>📫 Contact</h2>
 <ul>
