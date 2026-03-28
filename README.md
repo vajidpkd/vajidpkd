@@ -5,6 +5,16 @@
   <b>Learning • Practicing • Growing in Cybersecurity</b>
 </p>
 
+<p align="center">
+  <a href="https://tryhackme.com/p/vajidpkd">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme">
+  </a>
+  
+  <a href="https://profile.hackthebox.com/profile/019d34e9-8609-71e8-9025-2eabe0f82504">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-green?style=for-the-badge&logo=hackthebox">
+  </a>
+</p>
+
 <hr>
 
 <h2>🚀 About Me</h2>
@@ -58,15 +68,7 @@
 </p>
 <hr> -->
 
-<p align="center">
-  <a href="https://tryhackme.com/p/vajidpkd">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme">
-  </a>
-  
-  <a href="https://profile.hackthebox.com/profile/019d34e9-8609-71e8-9025-2eabe0f82504">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-green?style=for-the-badge&logo=hackthebox">
-  </a>
-</p>
+
 
 <h2>📫 Contact</h2>
 <ul>
