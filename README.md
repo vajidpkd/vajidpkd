@@ -1,9 +1,9 @@
 <h1 align="center">👨‍💻 Abdul Vajid P</h1>
 <h3 align="center">🔐 Aspiring Red Team Engineer | Cybersecurity Learner</h3>
 
-<p align="center">
+<!-- <p align="center">
   <b>Learning • Practicing • Growing in Cybersecurity</b>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://tryhackme.com/p/vajidpkd">
